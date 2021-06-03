@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition and resolution of the cityzens of the city of Chester as it was intended to be presented to the commissioners of Array, but for special reason was afterwards waved and the following declaration presented by citizens that summoned to appeare before His Majesties commissioners at the Rood in the liberties of the said city for the cleare manifestation of their allegiance to his Majesty and duty to the Parliament : also the resolution of the deputie-lieutenants, captaines, officers, souldiers and volunteeres of the trained Bonds in the County of Warwick, to the Right Honourable Robert Lord Brookes, lord lieutenant of the aforesaid county : also the said lords answer thereunto annexed : likewise on answer of the Lords and Commons assembled in Parliament, which the Iudges and Iustices of assize shall declare that His Majesties commission of Array is against law and liberty and priviledge of the subject.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28050</idno><idno type="EEBO-CITATION">12137984</idno>
+  <idno type="VID">197512</idno>
+  <idno type="EEBO-PROQUEST">2248554039</idno>
+  
+            <idno type="STC">Wing P1743</idno>
+            <idno type="STC">ESTC R5049</idno>
+            <idno type="OCLC">12137984</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28050)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197512)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E83, no 42 or 246:E112, no 42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition and resolution of the cityzens of the city of Chester as it was intended to be presented to the commissioners of Array, but for special reason was afterwards waved and the following declaration presented by citizens that summoned to appeare before His Majesties commissioners at the Rood in the liberties of the said city for the cleare manifestation of their allegiance to his Majesty and duty to the Parliament : also the resolution of the deputie-lieutenants, captaines, officers, souldiers and volunteeres of the trained Bonds in the County of Warwick, to the Right Honourable Robert Lord Brookes, lord lieutenant of the aforesaid county : also the said lords answer thereunto annexed : likewise on answer of the Lords and Commons assembled in Parliament, which the Iudges and Iustices of assize shall declare that His Majesties commission of Array is against law and liberty and priviledge of the subject.</title>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>for Tho. Banks and William Ley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Brooke, Robert Greville, --  Baron, 1607-1643.</term>
+               <term type="geographic_name">Chester (England) --  History --  Sources.</term>
+               <term type="geographic_name">Warwickshire (England) --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197512:1"/>
+            <p> THE PETITION and Resolution of the City<g ref="char:EOLhyphen"/>zens of the City of <hi>Chester,</hi> as it was in<g ref="char:EOLhyphen"/>tended to be presented to the Commissioners of Array, but for speciall reason was afterwards waved, and the following Declaration presented by Citizens that were summoned to appeare before his Majesties Commissioners at the Rood in the liberties of the said City for the cleare manifestation of their allegiance to his Majesty and duty to the Parliament.</p>
+            <p>Also the Resolution of the Deputie-Lieutenants, Captaines, Offi<g ref="char:EOLhyphen"/>cers, Souldiers and Volunteeres of the Trai<g ref="char:EOLhyphen"/>ned Bonds in the County of <hi>Warwick,</hi> to the Right Honourable <hi>Robert,</hi> Lord <hi>Brookes,</hi> Lord Lieutenant of the aforesaid County; Also the said Lords answer thereunto annexed.</p>
+            <p>Likewise an answer of the Lords and Commons Assembled in Parliament, which the Iudges and Iustices of Assize shall declare, that His Majesties Commission of Array is against Law, and Liberty, and priviledge of the Subject.</p>
+            <p>
+               <hi>Ordered Die Sabbati.</hi> Io. Brown, <hi>Cler. De Com.</hi>
+            </p>
+            <p>Printed at <hi>London</hi> for <hi>Tho. Banks,</hi> and <hi>William Ley.</hi> 1642.</p>
+            <pb facs="tcp:197512:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:197512:2"/>
+            <head>The humble Petition and Resolution of the Deputy-Lieutenants, Captains, Officers, Soul<g ref="char:EOLhyphen"/>diers, and Voluntiers of the Trained Bands of the County of <hi>Warwick,</hi> to the Right Honourable <hi>Robert</hi> Lord <hi>Brooke,</hi> Lord Lieutenant of the Coun<g ref="char:EOLhyphen"/>ty aforesaid, and by his Lordship presented to the high Court of Parliament, With the Answer of the Lords thereunto annexed.</head>
+            <head type="sub">To the Right Honourable <hi>Robert</hi> L. <hi>Brook,</hi> Lord Lieutenant for the County of <hi>VVarwicke,</hi> The Petition of the Deputy Lieutenants, Cap<g ref="char:EOLhyphen"/>tains, Officers, and Souldiers of the Trained Bands, and Voluntiers of the Coun<g ref="char:EOLhyphen"/>ty aforesaid.</head>
+            <opener>Humbly Sheweth.</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat as it was no small comfort and setling to the well affected of the whole Kingdome when they understood the most excellent necessary and seasonable Ordinance of both Houses of Parlia<g ref="char:EOLhyphen"/>ment, concerning the Militia; so in speciall, we of this County, who did most earnestly petition for it, Doe desire to come short of none in the expression of our unfeigned thankfulnesse to them, for the hap<g ref="char:EOLhyphen"/>py accomplishment thereof; As also, for their respects to us, in appointing your Lordship our Lieutenant. Our request to your Lordship is, That you will present our most humble and hearty thanks to the Parliament, signifying our readinesse to obey his Majesties Royall Authority in this their happy Or<g ref="char:EOLhyphen"/>dinance of the <hi>Militia,</hi> and our Resolutions to adhere to his Majestie, and both Houses of Parliamen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>▪ to the losse of the last drop of our dearest bloud in securing His and their Persons and advancing their designes; Which (though maliciously traduced by some few malignant Persons) we rest most assured, tends only to the establishment of truth and peace to us: and our Posterities. For the better securing whereof, we humbly and heartily pray this Ordinance may be continued, till by some other effectuall provision the peace of this Kingdome, and the security of our Laws be established, especially by putting
+<pb facs="tcp:197512:3"/> the power and care of their execution, in such hands as the Parliament, and Kingdome may confide in; which by the late violation of the petition of Right, wee have cause to recommend to the Parliament, as fearing the like miscarriages for the time to come, of whatsoever good Laws you can provide, without some such way of security.</p>
+            <p>And we further pray that some speedie course may be taken, to remoue from His Majesties most Sacred Person all pestilent troublers of this Church, and State; and for such Members as leave that great Counsell, and leane to the malignant party, Our most humble and earnest desires are, That they may receive condigne and speedy punishment (the Kingdome groaning un<g ref="char:EOLhyphen"/>der so long delay) as shall be thought fit by the wisedome and Justice of this Parliament.</p>
+            <p>One request more that concernes this County, Wee humbly present your Lordship with That the Magazine thereof which lyes in the Citie and Coun<g ref="char:EOLhyphen"/>tie of Coventrie, may be removed and laid up in your Lordships Castle of Warwick, as the safest place of the Countie, with a sufficient Guard, provi<g ref="char:EOLhyphen"/>ded by the Countie for the securing of it.</p>
+            <closer>And your Petitioners shall ever pray, &amp;c.</closer>
+         </div>
+         <div type="response_to_petition">
+            <head>The Lords Answer.</head>
+            <p>MY Lords have taken your Petition into Consideration, and receive much contentment in the good affections you have expressed, thus seaso<g ref="char:EOLhyphen"/>nably and necessarily, for the good of the King and Kingdome, and for their Lordships encouragement in the performance of their Duty; For which they give you hearty thankes: And my Lords do assure you that (God willing) they resolve to insist in their former declared Resolutions for the upholding the true Religion; the Kings Authority in the highest Court, which by sundry late Declarations and Practises to abuse the People, they finde so much vilist<g ref="char:EOLhyphen"/>ed and invaded, The Priviledges of Parliament, The free course of Iustice, The Laws and Peace of this Kingdoms, notwithstanding any dangers and hazards that for that Cause may befall them.</p>
+            <p>That for the manifestation of their good Affections, and their Lordships kinds acceptation thereof, they have commanded your Petition and this An<g ref="char:EOLhyphen"/>swer, to be forthwith printed and published.</p>
+            <div type="license" subtype="order_to_print">
+               <head>Ordered Die Sabbati.</head>
+               <p>Ordered by the Lords in Parliament that this Petition and Answer be forth<g ref="char:EOLhyphen"/>with printed and published.</p>
+               <closer>
+                  <signed>Iohn Brown, Cler. Parl.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="order">
+            <pb facs="tcp:197512:3"/>
+            <head>
+               <hi>An Order of the Lords and Commons as<g ref="char:EOLhyphen"/>sembled in</hi> Parliament, <hi>that the Iudges and Iustices of Assize, in the severall Counties of</hi> England <hi>and</hi> Wales, <hi>in open Court, and in their severall Charges to be delivered to the Grand Juries at the next Assizes, shall declare and publish, That the said Lords and Commons have resolved upon the Question, That His Majesties Commissions of Array are against Law, &amp; against the Liberty and pro<g ref="char:EOLhyphen"/>perty of the Subject.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas severall Commissions of Array have lately issu<g ref="char:EOLhyphen"/>ed out under the great Seale of <hi>England,</hi> into the seve<g ref="char:EOLhyphen"/>rall Counties of <hi>Liecester, Worcester.</hi> and other Coun<g ref="char:EOLhyphen"/>ties of this Realme, tending to the great danger of His Majesty, and the disturbance of the Peace of this Kingdome: For the preventing thereof, and of the ex<g ref="char:EOLhyphen"/>ecution, and issuing out of any such Commissions for the time to come, it is ordered by the Lords and Commons assembled in Parliament, That the Iudges and Iustices of Assize, of the se<g ref="char:EOLhyphen"/>verall Counties of England and Wales, be required in their severall Circuits, at the Assizes and great Sessions to be next held for each County, within this Realme, and the Dominion of Wales, respectively, in open Court, and in their severall Charges to be delivered to the Grand-juries at the said Assizes, and great Sessions, openly to declare and publish, That the said Lords and Com<g ref="char:EOLhyphen"/>mons assembled in Parliament have, upon mature deliberation, Resolved upon the question, That the said Commissions of Array are against Law and a<g ref="char:EOLhyphen"/>gainst the Liberty and Property of the Subject: And that all those that are Actors in putting the same in execution, shall be esteemed disturbers of the Peace of the Kingdome, and Betrayers of the Liberty of the Subject.</p>
+            <div type="license" subtype="order_to_print">
+               <head>Die Sabdati.</head>
+               <p>Ordered by the Lords in Parliament, That this Order shall be Printed and Published.</p>
+               <closer>
+                  <signed>Jo: Browne Cleric. Parliament.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:197512:4"/>
+            <head>To the Right Honourable and Worshipfull the Lords, and Gen<g ref="char:EOLhyphen"/>tlemen now in the Commission of Array, to be executed in this City of <hi>Chester.</hi>
+            </head>
+            <argument>
+               <p>The humble Petition of divers of His Maje<g ref="char:EOLhyphen"/>sties loyall Subjects within the City of Chester:</p>
+            </argument>
+            <opener>Humbly sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioners hearing of the said Commission, and conceiv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng it to be in the judgement of both Hou<g ref="char:EOLhyphen"/>ses illegall, and contrary to the ex<g ref="char:EOLhyphen"/>presse Ordinance of Parliament, and al<g ref="char:EOLhyphen"/>so of dangerous consequence, doe humbly pray that the execution there. of may be stayed, themselves excused from obeying the same, and that you would be pleased rather to mediate betwixt his Gracious Majesty and the honourable Hou<g ref="char:EOLhyphen"/>ses of Parliament for a reconciliation, than to put your Petitioners to such desperate consequence; being as they humbly conceive against their Protestation, so to deceive their obedience, oppose the priviledges of Parliament, and withstand their owne Rights and pri<g ref="char:EOLhyphen"/>viledges.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:197512:4"/>
+            <head>
+               <hi>The Citizens &amp; inhabitants of the City of</hi> Chester, <hi>being summoned to appeare before his Majesties Commissioners at the Roode with<g ref="char:EOLhyphen"/>in the liberties of the said City, upon Friday being the first of</hi> Iu<g ref="char:EOLhyphen"/>ly, 1642. <hi>for the cleare manifestation of their allegiance to his Majesty, and duty to the Parliament doe declare.</hi>
+            </head>
+            <p>THat as it is a sacred Truth that a Kingdome divided can<g ref="char:EOLhyphen"/>not stand, so it is a Legall principle that his Royall Ma<g ref="char:EOLhyphen"/>jesty is the head, and the Parliament the representative bo<g ref="char:EOLhyphen"/>dy of this Kingdome, and that in the cordiall union of his Majesty and the Parliament consists the safety, glory, and hope thereof.</p>
+            <p>And they for their parts heartily wish they may be accursed as <hi>Corah</hi> and his accomplices that doe or shall purposely occasion or foment any difference betwixt his Majesty and his Parliament: and therefore they further doe declare their readines with their lives and fortunes to obey his Majesty as their most deare and dread Sove<g ref="char:EOLhyphen"/>raigne according to their due allegiance, and their resolution to de<g ref="char:EOLhyphen"/>fend the priviledges of Parliament, according to their free and just Protestation, and that as God and the fundamentall Lawes of this Kingdome, have joyned his Majesty and the Parliament together; so they cannot agree unto a disjoynted obedience, but doe declare themselves enemies to all such as shall goe about to put his Majesty and the Parliament asundet.</p>
+            <p>And for this resolution they have received incouragements from his Majesties owne Declaration, attested with forty of the Nobility and prime Counsellours, whereby hee had most graciously assured them and all other his people, that hee hath no more thoughts of making war against his Parliament, than against his owne children; and that he will defend the just priviledges of Parliament, and main<g ref="char:EOLhyphen"/>taine and observe the Acts assented unto by his gracious Majesty this present parliament without violation, for which as for other his Majesties severall gracious protestations for the defence of the pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ant Religion, and the Lawes of the Land they returne most hum<g ref="char:EOLhyphen"/>ble thankes to his Majesty.</p>
+            <trailer>FINIS,</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
